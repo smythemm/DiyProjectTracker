@@ -1,0 +1,10 @@
+obj
+bin
+out
+lcov.info
+codeship.aes
+.aws.env
+.aws.lsm.env
+.vs/
+/TestResults
+coverage.json
